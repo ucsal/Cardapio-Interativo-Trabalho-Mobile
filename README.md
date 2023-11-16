@@ -1,2 +1,7 @@
-# Cardapio-Interativo-Trabalho-Mobile
-Trabalho da matéria Programação Para Dispositivos Móveis
+# CardapioInterativo
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.

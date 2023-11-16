@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407951136698",
+    "project_id": "cardapiointerativo-a81f0",
+    "storage_bucket": "cardapiointerativo-a81f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407951136698:android:ac182b6a84417b3256ef83",
+        "android_client_info": {
+          "package_name": "com.mycompany.cardapiointerativo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWVXFiEM6afo3PKUYcJEkMSojEAREn9aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
