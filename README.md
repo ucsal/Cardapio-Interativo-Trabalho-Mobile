@@ -1,6 +1,7 @@
 # Cardapio Interativo 
 
 Obs: 1. Recomendo colocar no modo Raw para melhor visualização do documento de texto. 
+     
      2. Para visualização das imagens desativar o modo War e colocar no modo normal que elas irão aparecer.
 
 
