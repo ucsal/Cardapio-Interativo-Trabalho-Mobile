@@ -1,4 +1,4 @@
-# CardapioInterativo
+# Cardapio Interativo (Recomendo colocar para visualizar no modo RAW)
 
 
 Instruções de instalação do Flutter
