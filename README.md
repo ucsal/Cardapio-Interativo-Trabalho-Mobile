@@ -1,6 +1,6 @@
 # Cardapio Interativo 
 
-(Recomendo colocar para visualizar no modo Raw para melhor visualização do documento)
+(Recomendo colocar no modo Raw para melhor visualização do documento)
 
 
 Instruções de instalação do Flutter
