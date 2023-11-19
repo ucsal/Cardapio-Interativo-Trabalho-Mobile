@@ -1,7 +1,8 @@
 # Cardapio Interativo 
 
 Obs: Recomendo colocar no modo Raw para melhor visualização do documento de texto.
-Obs: Para visualização das imagens desativar o modo War e colocar no modo normal que elas irão aparecer.
+
+Obs2: Para visualização das imagens desativar o modo War e colocar no modo normal que elas irão aparecer.
 
 
 Instruções de instalação do Flutter
