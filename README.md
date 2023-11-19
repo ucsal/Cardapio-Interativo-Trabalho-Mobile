@@ -385,7 +385,15 @@ Tela Produto
 
 Imagens ilustrativas do projeto em funcionamento.
 1. Tela Restaurantes: ![Tela Restaurantes](https://github.com/eduardolopesx02/Cardapio-Interativo-Trabalho-Mobile/assets/143762383/fb2220a3-8e17-4adc-bc7a-601857b16d90)
+
+
 2. Tela Pratos: ![Tela Pratos](https://github.com/eduardolopesx02/Cardapio-Interativo-Trabalho-Mobile/assets/143762383/429a1550-92dc-43bf-9b5f-2c5d1827c82d)
+
+
 3. Tela Produto: ![Tela Produto](https://github.com/eduardolopesx02/Cardapio-Interativo-Trabalho-Mobile/assets/143762383/c7c45f7d-b6b6-48cc-b239-6d8c7bc605fb)
+
+
 4. Confirmação Favoritos: ![Confirmação Favoritos](https://github.com/eduardolopesx02/Cardapio-Interativo-Trabalho-Mobile/assets/143762383/986ca4bb-5392-4579-a6db-bb9933a8f433)
+
+
 5. Tela Favoritos: ![Tela Favoritos](https://github.com/eduardolopesx02/Cardapio-Interativo-Trabalho-Mobile/assets/143762383/80dc1f97-65f8-4ed8-81da-bba0e9f2a77d)
