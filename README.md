@@ -35,8 +35,9 @@ Verifique a instalação
 
 Após a instalação, abra um terminal e digite o seguinte comando:
 
+```bash
 flutter doctor
-
+```
 Este comando irá verificar se o Flutter está instalado corretamente. Se tudo estiver OK, você verá uma mensagem como a seguinte:
 
 [✓] Flutter (Channel stable, 2.10.3, on macOS 12.3.1 x64, locale pt_BR)
